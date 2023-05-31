@@ -1,4 +1,4 @@
-package amsdatamodel
+package amsxdatamodel
 
 import (
 	"encoding/json"
